@@ -9,5 +9,4 @@ public class TaxAdapterDemo {
 		i1.setTax(new MyMauritiusTax());
 		i1.printPrice();
 }
-
 }
